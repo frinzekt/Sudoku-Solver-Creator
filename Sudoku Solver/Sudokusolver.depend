@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1478083662 source:c:\users\lapuz\desktop\frinze files\c++ new\sudoku solver (list of algo)\frinze based on c language of syb0rg\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<windows.h>
+
+1526397872 source:c:\users\frinze lapuz\desktop\frinze lapuz\frinze files\c++ new\sudoku solver (list of algo)\frinze based on c language of syb0rg\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<windows.h>
+
+1543323197 source:d:\personal files\github\cafe-au-latte-payroll-system\sudoku-solver-creator\sudoku solver\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<windows.h>
+
